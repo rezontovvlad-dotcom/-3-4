@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+background-image: url("../images/bg.png");
+background-position: center;
+    background-size:cover ;
+ }
+
+.header{
+    padding: 32px 0 32px 0;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo {
+    margin-right: 400px;
+}
+
+.menu {
+    display: inline-block;
+}
+
+.menu-item {
+    margin-right: 104px;
+    display: inline-block;color: white;
+}
+.banner{
+padding: 150px 0 200px 0;}
+
+.services{
+    background-color: white;
+}
+
+.testimonials{
+    background-image: url("../images/bg2.png");
+    background-position: center;padding: 198px 0 0px 0;margin: 0 auto;text-align: center;background-size: auto 100%;
+}
+
+.footer{
+    background-position: center;
+}
+.services{}
+
+.training-menu{
+    font-size: 60px;
+    max-width: 700px; font-family: "Arial";
+    color: rgb(255, 255, 255);
+}
+.p1{
+padding:90px 0 100px 0;  font-size: 16px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    text-align: left;
+
+}
+.button-1{
+ border: 1px solid white; background-color: transparent;padding: 20px 30px 20px 37px;  font-size: 16px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    font-weight: bold;cursor: pointer;
+}
+.p-2{
+padding: 0px 0 140px 0;  font-size: 16px;
+    font-family: "Arial";
+    color: rgb(49, 27, 94);
+    line-height: 2.5;
+    text-align: left; margin: auto;
+}
+
+.traning-couche{
+padding:57px 0 40px 0;
+    font-family: "Arial";
+    color: rgb(139, 103, 214);
+    font-weight: bold;
+    line-height: 1.571;
+    text-align: center;
+    font-size: 35px;
+}
+
+.star{
+padding-right: 13px;}
+
+
+.menu-item a {
+    font-size: 16px;
+    color: rgb(237, 224, 248);
+    line-height: 1.2;
+    text-decoration: none;
+    font-family: "Arial";
+}
+
+.traning-couche-1{
+    padding:140px 0 40px 0;
+    font-family: "Arial";
+    color: rgb(139, 103, 214);
+    font-weight: bold;
+    line-height: 1.571;
+    text-align: left;
+    font-size: 35px;
+}
+
+
+
+
+.testimonials-container {
+   max-width:1200px;
+    background: white;
+
+    margin:0 460px 0 460px;
+border-radius: 20px;
+}
+
+.p-3{
+    font-size: 16px;
+    font-style: Arial;
+    color: rgb(49, 27, 94);
+    line-height: 1.5;
+    text-align: center;
+    width: 555px;
+    margin: 0 auto;
+padding: 0px 0 40px 0;
+}
+
+.button-2{ border:2px solid plum;background-color: transparent;padding: 21px ;  font-size: 16px;
+    font-family: "Arial";
+    color: rgb(177, 128, 225);
+    font-weight: bold;width: 228px;margin: 0 0 40px 0; cursor: pointer;
+}
+
+
+#premi{
+font-weight: bold;}
+
+.footer{
+padding: 185px 0 45px 0;  font-size: 16px;}
+
+.container-footer{
+   text-align: center;}
+
